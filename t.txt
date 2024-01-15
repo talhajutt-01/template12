@@ -1,0 +1,102 @@
+{
+    "title": {
+        "title": "Updated Capiclean"
+    },
+
+     "nav": {
+        "nav0": "home",
+        "nav1": "Service",
+        "nav2": "About",
+        "nav3": "Choose",
+        "nav4": "Team",
+        "nav5": "Contact Us"
+    },
+
+    "banner": {
+        "h0": "updaet Best YOUR",
+        "h1": "house CLEAN",
+        "h2": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
+        "h3": "Contact Us"
+    },
+
+     "service":{
+        "s0":"Our Services",
+        "s1":"update Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "s2":"update Tile and Grout",
+        "s3":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor",
+        "s4":"Carpet Cleaning",
+        "s5":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor",
+        "s6":"Tile and Grout",
+        "s7":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor",
+        "s8":"Carpet Cleaning",
+        "s9":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor",
+        "s10":"Tile and Grout",
+        "s11":"update  Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor",
+        "s12":"Carpet Cleaning",
+        "s13":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor"
+     },
+
+       "about": {
+        "a0": "update About Cleaning",
+        "a1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+        "a2": "Read More"
+    },
+
+     "choose":{
+        "p0":"update Why",
+        "p1":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "p2":"12004+",
+        "p3":"Our clients",
+        "p4":"10004+",
+        "p5":"Happy clients",
+        "p6":"804+",
+        "p7":"Supports",
+        "p8":"905+",
+        "p9":"Awards",
+        "p10":"Get A quote"
+     },
+
+       "team" : {
+        "t0":"updated Our Team ",
+        "t1":"updated Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "t2":"Follow Us",
+        "t3":"Consectetur",
+        "t4":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "t5":"magna aliqua",
+        "t6":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "t7":"Follow Us",
+        "t8":"updated Follow Us",
+        "t9":"Aonsectetur",
+        "t10":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "t11":"Nonsectetur",
+        "t12":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
+        "t13":"Follow Us"
+     },
+
+     "newsletter": {
+        "n0": "updaet Newsletter", 
+        "n1": "Tempor incididunt ut labore et dolore magna aliqua",
+        "n2": "SUBSCRIBE"
+    },
+
+      "footer" : {
+        "f0":"updated Contact ",
+        "f1":"Locations",
+        "f2":"+71 9876543210",
+        "f3":"demo@gmail.com",
+        "f4":"Copyright 2019 All Right Reserved By",
+        "f5":"Free html  Templates"
+     },
+
+        "images": {
+        "img1": "images/logo.png",
+        "img2": "images/img-2.png",
+        "img3": "images/img-3.png",
+        "img4": "images/img-4.png",
+        "img5": "images/img-5.png",
+        "img6": "images/img-6.png",
+        "img7": "images/img-7.png"
+    }
+
+
+}
