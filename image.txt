@@ -1,0 +1,11 @@
+{
+     "images": {
+        "img1": "images/logo.png",
+        "img2": "images/img-2.png",
+        "img3": "images/img-3.png",
+        "img4": "images/img-4.png",
+        "img5": "images/img-5.png",
+        "img6": "images/img-6.png",
+        "img7": "images/img-7.png"
+    }
+}

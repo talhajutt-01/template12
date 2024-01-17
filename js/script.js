@@ -71,6 +71,16 @@ const f3 = document.getElementById('f3');
 const f4 = document.getElementById('f4');
 const f5 = document.getElementById('f5');
 
+const g0 = document.getElementById('header');
+const g1 = document.getElementById('banner');
+const g2 = document.getElementById('service');
+const g3 = document.getElementById('about');
+const g4 = document.getElementById('choose');
+const g5 = document.getElementById('team');
+const g6 = document.getElementById('newsletter');
+const g7 = document.getElementById('footer');
+
+
 const img1 = document.getElementById('img1');
 const img2 = document.getElementById('img2');
 const img3 = document.getElementById('img3');
@@ -96,7 +106,10 @@ function updateContent(element, newValue) {
     // Update the src attribute of the image element
     imageElement.src = newSrc;
 }
-
+function updateBackgroundColor(element, newColor) {
+  // Update the background color for the element
+  element.style.backgroundColor = newColor;
+}
   
   // Fetch JSON data from the text file
   function updatePageContent(pageName) {
@@ -105,7 +118,7 @@ function updateContent(element, newValue) {
         .then(response => response.json())
         .then(jsonData => {
             // Update content based on the current page
-            updateContent(title, jsonData.title.title);
+            
 
             updateLinkContent(nav0, jsonData.nav.nav0);
             updateLinkContent(nav1, jsonData.nav.nav1);
@@ -177,6 +190,16 @@ function updateContent(element, newValue) {
             updateContent(f3, jsonData.footer.f3);
             updateContent(f4, jsonData.footer.f4);
             updateContent(f5, jsonData.footer.f5);
+
+            updateBackgroundColor(g0, jsonData.color.header);
+            updateBackgroundColor(g1, jsonData.color.banner);
+            updateBackgroundColor(g2, jsonData.color.service);
+            updateBackgroundColor(g3, jsonData.color.about);
+            updateBackgroundColor(g4, jsonData.color.choose);
+            updateBackgroundColor(g5, jsonData.color.team);
+            updateBackgroundColor(g6, jsonData.color.newsletter);
+            updateBackgroundColor(g7, jsonData.color.footer);
+          
          
             updateImageSrc(img1, jsonData.images.img1);
             updateImageSrc(img2, jsonData.images.img2);
@@ -190,6 +213,7 @@ function updateContent(element, newValue) {
             const fileName = pageName.split('/').pop();
 
             if (fileName === 'index.html') {
+              updateContent(title, jsonData.title.title);
                
             } else if (fileName === 'about.html') {
 
