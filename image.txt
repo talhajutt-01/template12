@@ -1,6 +1,7 @@
 {
-     "images": {
+    "images": {
         "img1": "images/logo.png",
+        "img": "images/img-1.png",
         "img2": "images/img-2.png",
         "img3": "images/img-3.png",
         "img4": "images/img-4.png",

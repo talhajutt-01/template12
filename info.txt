@@ -3,7 +3,8 @@
         "title": "Updated Capiclean"
     },
 
-     "nav": {
+     "nav": { 
+        //another section are elements are link
         "nav0": "home",
         "nav1": "Service",
         "nav2": "About",
@@ -13,6 +14,7 @@
     },
 
     "banner": {
+        //another section are elements are text and h3 is button or link
         "h0": "updaet Best YOUR",
         "h1": "house CLEAN",
         "h2": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
@@ -20,6 +22,7 @@
     },
 
      "service":{
+        //another section are elements are text
         "s0":"Our Services",
         "s1":"update Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         "s2":"update Tile and Grout",
@@ -37,12 +40,14 @@
      },
 
        "about": {
+        //another section are elements are text and a2 is button or link
         "a0": "update About Cleaning",
         "a1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
         "a2": "Read More"
     },
 
      "choose":{
+        //another section are elements are text and p10 is button or link
         "p0":"update Why",
         "p1":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         "p2":"12004+",
@@ -57,6 +62,7 @@
      },
 
        "team" : {
+        //another section are elements are text and t2,t7,t13 are button or link
         "t0":"updated Our Team ",
         "t1":"updated Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         "t2":"Follow Us",
@@ -74,12 +80,14 @@
      },
 
      "newsletter": {
+        //another section are elements are text and n2 is button or link
         "n0": "updaet Newsletter", 
         "n1": "Tempor incididunt ut labore et dolore magna aliqua",
         "n2": "SUBSCRIBE"
     },
 
       "footer" : {
+        //another section are elements are text
         "f0":"updated Contact ",
         "f1":"Locations",
         "f2":"+71 9876543210",
@@ -87,7 +95,8 @@
         "f4":"Copyright 2019 All Right Reserved By",
         "f5":"Free html  Templates"
      },
-          "color":{
+      "color":{
+        //another section to change color scheme
         "header":"grey",
         "banner":"red",
         "service":"red",
@@ -99,15 +108,25 @@
      },
 
         "images": {
+        //image of logo at header
         "img1": "images/logo.png",
+
+        //image of banner section
         "img": "images/img-1.png",
+
+        //image of about section
         "img2": "images/img-2.png",
+
+        //image of choose section
         "img3": "images/img-3.png",
+
+        //image of team section
         "img4": "images/img-4.png",
         "img5": "images/img-5.png",
         "img6": "images/img-6.png",
         "img7": "images/img-7.png"
     }
+    
 
 
 }

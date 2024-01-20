@@ -82,6 +82,7 @@ const g7 = document.getElementById('footer');
 
 
 const img1 = document.getElementById('img1');
+const img = document.getElementById('img');
 const img2 = document.getElementById('img2');
 const img3 = document.getElementById('img3');
 const img4 = document.getElementById('img4');
@@ -202,6 +203,7 @@ function updateBackgroundColor(element, newColor) {
           
          
             updateImageSrc(img1, jsonData.images.img1);
+            updateImageSrc(img, jsonData.images.img);
             updateImageSrc(img2, jsonData.images.img2);
             updateImageSrc(img3, jsonData.images.img3);
             updateImageSrc(img4, jsonData.images.img4);
