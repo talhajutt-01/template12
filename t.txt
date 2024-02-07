@@ -13,7 +13,7 @@
     },
 
     "banner": {
-        "h0": "updaet Best YOUR",
+        "h0": "Best YOUR",
         "h1": "house CLEAN",
         "h2": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
         "h3": "Contact Us"
@@ -21,8 +21,8 @@
 
      "service":{
         "s0":"Our Services",
-        "s1":"update Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "s2":"update Tile and Grout",
+        "s1":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "s2":"Tile and Grout",
         "s3":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor",
         "s4":"Carpet Cleaning",
         "s5":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor",
@@ -37,13 +37,13 @@
      },
 
        "about": {
-        "a0": "update About Cleaning",
+        "a0": "About Cleaning",
         "a1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
         "a2": "Read More"
     },
 
      "choose":{
-        "p0":"update Why",
+        "p0":"Why",
         "p1":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         "p2":"12004+",
         "p3":"Our clients",
@@ -57,8 +57,8 @@
      },
 
        "team" : {
-        "t0":"updated Our Team ",
-        "t1":"updated Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "t0":"Our Team ",
+        "t1":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         "t2":"Follow Us",
         "t3":"Consectetur",
         "t4":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem",
@@ -74,13 +74,13 @@
      },
 
      "newsletter": {
-        "n0": "updaet Newsletter", 
+        "n0": "Newsletter", 
         "n1": "Tempor incididunt ut labore et dolore magna aliqua",
         "n2": "SUBSCRIBE"
     },
 
       "footer" : {
-        "f0":"updated Contact ",
+        "f0":"Contact ",
         "f1":"Locations",
         "f2":"+71 9876543210",
         "f3":"demo@gmail.com",
@@ -88,14 +88,14 @@
         "f5":"Free html  Templates"
      },
           "color":{
-        "header":"grey",
-        "banner":"red",
-        "service":"red",
-        "about":"red",
-        "choose":"red",
-        "team":"grey",
-        "newsletter":"red",
-        "footer":"grey"
+        "header":".",
+        "banner":".",
+        "service":".",
+        "about":".",
+        "choose":".",
+        "team":".",
+        "newsletter":".",
+        "footer":"."
      }
 
 
